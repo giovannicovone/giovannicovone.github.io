@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Giovanni Covone
 # Description of the Site
-description: astrophysicist @ University of Naples, Italy
+description: astrophysicist @ University of Naples Federico II, Italy
 # URL of Image of the Site
 site-image: /assets/images/meta.jpg
 # Keywords of the Site
@@ -39,7 +39,7 @@ instagram_username: giovanni.astro
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: Giovanni
 
 # Name of the Author
 author-name: Giovanni Covone
@@ -61,7 +61,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+permalink: "blogxxx/:title"
 
 # Compress
 compress_html:
