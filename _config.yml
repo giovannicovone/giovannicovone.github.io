@@ -31,7 +31,7 @@ email: giovanni.covone@unina.it
 # instagram_username: giovanni.astro
 #linkedin_username: thedevslot
 #github_username:  thedevslot
-youtube_channel_id: UCByQ8JRnYG1kh7M61cDW-XA 
+#youtube_channel_id: UCByQ8JRnYG1kh7M61cDW-XA 
 #reddit_username: /
 #behance_username: /
 #dribbble_username: /
@@ -48,7 +48,7 @@ author-name: Giovanni Covone
 # URL for the Image of the Author
 author-image: /assets/images/profilo2017.png
 # 60 Words About the Author
-author-about: I am an astrophysicist, Associate Professor at the Physics Department of the University of Naples Federico II. | I am interested in the study of the nature dark matter and its distribution in cosmic structures, the search and characterization of Earth-like exoplanets, and the evolution of the scientific thought.
+author-about: I am an astrophysicist, Associate Professor at the Physics Department of the University of Naples Federico II. I am interested in the study of the nature dark matter and its distribution in cosmic structures, the search and characterization of Earth-like exoplanets, and the evolution of the scientific thought.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/giovannicovone
 
