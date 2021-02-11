@@ -18,7 +18,7 @@ site-keywords: Astronomy, Philosophy, Exoplanets, Dark Matter
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://www.repstatic.it/content/localirep/img/rep-napoli/2021/02/06/112027436-1dc60796-d07e-4e59-aaaa-1a23d09a9252.jpg?webp
+heroimage: /assets/images/Golfo.jpeg
 # https://www.stsci.edu/files/live/sites/www/files/home/hst/_images/Image-LEGUS-001.jpg
 # https://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/30589/STScI-gallery-1427a-2000x960.jpg
 # https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
