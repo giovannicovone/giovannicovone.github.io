@@ -27,15 +27,16 @@ heroimage: /assets/images/Golfo.jpg
 # If you don't want to use any icon, you can leave them blank.
 email: giovanni.covone@unina.it
 #facebook_username: thedevslot
-#twitter_username: gcovone
-# instagram_username: giovanni.astro
-#linkedin_username: thedevslot
+twitter_username: gcovone
+instagram_username: giovanni.astro
+linkedin_username: giovanni-covone-b1883657
 #github_username:  thedevslot
-#youtube_channel_id: UCByQ8JRnYG1kh7M61cDW-XA 
+youtube_channel_id: UCByQ8JRnYG1kh7M61cDW-XA 
 #reddit_username: /
 #behance_username: /
 #dribbble_username: /
 #spotify_username: /
+skype_username: gcovone
 
 # Google Analytics
 google-analytics: UA-163806439-1
@@ -63,7 +64,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+permalink: "activites/:title"
 
 # Compress
 compress_html:
